@@ -1,6 +1,6 @@
 # C# Portfolio
 * Prevezmi repositar s programem a uspesne jej otevri ve ve Visual Studio Code.
-* Pridej do repositare svou fotografii ve formatu prijmeni-jmeno.jpg v rozliseni 300px x 400px.
+* Pridej do repositare svou fotografii ve formatu prijmeni-jmeno.jpg v rozliseni 150px x 200px.
 * Uprav soubor index.html tak, aby zobrazoval tvou fotografii ./prijmeni-jmeno.jpg.
 * Proved "commit".
 * Uprav soubor index.html tak, aby zobrazoval Tve jmeno a prijmeni.
